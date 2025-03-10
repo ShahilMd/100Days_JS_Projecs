@@ -3,9 +3,39 @@
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>Valus of Time</title>
+  <title>Modern Clock</title>
+  <link rel="stylesheet" href="index.css">
+
+</head>
 </head>
 <body>
-  
+<div class="container mx-auto px-4">
+  <div class="clock-container flex flex-col items-center">
+    <div class="time-section">
+      <div class="time-box">
+        <div id="hours" class="time-value">12</div>
+        <div class="time-label">Hours</div>
+      </div>
+      <div class="time-box">
+        <div id="minutes" class="time-value">00</div>
+        <div class="time-label">Minutes</div>
+      </div>
+      <div class="time-box">
+        <div id="seconds" class="time-value">00</div>
+        <div class="time-label">Seconds</div>
+      </div>
+      <div class="ampm-box">
+        <div id="ampm" class="ampm-value">AM</div>
+        <div class="time-label">Period</div>
+      </div>
+    </div>
+    
+    <div class="date-section">
+      <div id="date">Monday, March 10, 2025</div>
+    </div>
+  </div>
+</div>
+
+<script src="index.js"></script>
 </body>
 </html>
