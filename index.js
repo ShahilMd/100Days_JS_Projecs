@@ -6,9 +6,23 @@ const ampm =document.getElementById('ampm');
 const date = document.getElementById('date');
 const time =new Date()
 
+const today = {
+  day:time.getDay(),
+  month:time.getMonth(),
+  year:time.getFullYear(),
+
+}
+// console.log(today.day);
+
 const oldHrs = time.getHours()
 const newHrs= (oldHrs%12).toString().padStart(2,'0');
-const newDate = time() 
+const options = {
+  weekday: "long",
+  year: "numeric",
+  month: "long",
+  day: "numeric",
+};
+const newDate = time.toLocaleDateString(undefined, options)
 
 
 
