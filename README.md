@@ -27,4 +27,5 @@ A sleek, responsive digital clock with a modern UI featuring a glass-morphism de
 
 ## Screenshot
 
-![Modern Clock Screenshot]([MORDEN CLOCK/Screenshot 2025-03-13 015441.png](https://github.com/ShahilMd/100Days_JS_Projecs/blob/099fa11da1a0c2ff9f6d84165d260e40ea181c01/MORDEN%20CLOCK/Screenshot%202025-03-13%20015441.png))
+![Modern Clock Screenshot](MORDEN CLOCK
+/Screenshot 2025-03-13 015441.png)
