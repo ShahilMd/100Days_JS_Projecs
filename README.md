@@ -3,7 +3,7 @@
 
 A sleek, responsive digital clock with a modern UI featuring a glass-morphism design.
 
-![Modern Clock Preview](https://modernclockit.netlify.app/)
+![Modern Clock Preview](https://github.com/ShahilMd/100Days_JS_Projecs/blob/099fa11da1a0c2ff9f6d84165d260e40ea181c01/MORDEN%20CLOCK/Screenshot%202025-03-13%20015441.png)
 
 ## Features
 
